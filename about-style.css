@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  color: #f0e2e8;
+  border: 1px solid #f0e2e8;
+  background-color: #f0e2e8 ;
+  padding: 8px;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: #5a3610;
+  font-family: cursive;
+  text-decoration: none;
+
+}
+
+p{
+  border: 4px solid #6f4315
+}
+h3 {
+  text-indent: 50px;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #cfb2bf;
+  background-color: #f0e2e8;
+  border: 3px solid #939982;
+  padding: 10px;
+}
+
+h4 {
+  text-align: center;
+  color: #5a3610
+}
+
+a {
+  text-decoration: none;
+  color: #f0e2e8;
+}
